@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Tests
+.pytest_cache/

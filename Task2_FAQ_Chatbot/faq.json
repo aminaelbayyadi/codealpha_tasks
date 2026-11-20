@@ -1,0 +1,116 @@
+[
+  {
+    "category": "Stage",
+    "question": "Qu'est-ce que le stage IA de CodeAlpha ?",
+    "keywords": "presentation programme internship intelligence artificielle entreprise description",
+    "answer": "C'est un programme de stage proposé par CodeAlpha, une entreprise de développement logiciel. Il offre une expérience concrète en intelligence artificielle : développement de modèles, workflows de machine learning et traitement de données en temps réel, avec l'accompagnement d'experts."
+  },
+  {
+    "category": "Stage",
+    "question": "Quels sont les avantages du stage ?",
+    "keywords": "perks bénéfices offre avantage reçois",
+    "answer": "Vous recevez : une lettre d'offre de stage, un certificat de fin de stage (vérifié par QR code), un certificat avec ID unique, une lettre de recommandation (selon votre performance), une aide à l'emploi/placement et un soutien pour améliorer votre CV."
+  },
+  {
+    "category": "Certificat",
+    "question": "Combien de tâches faut-il réaliser pour obtenir le certificat ?",
+    "keywords": "minimum nombre tâches tasks projets certificat éligible critère complétion une seule",
+    "answer": "Il faut réaliser au minimum 2 ou 3 tâches parmi les 4 proposées. Soumettre une seule tâche est considéré comme incomplet et aucun certificat n'est délivré."
+  },
+  {
+    "category": "Tâches",
+    "question": "Quelles sont les tâches proposées en intelligence artificielle ?",
+    "keywords": "liste tasks projets choix domaine quatre 4",
+    "answer": "Il y a 4 tâches : (1) Outil de traduction de langues, (2) Chatbot pour FAQ, (3) Génération de musique avec l'IA, (4) Détection et suivi d'objets. Vous en choisissez 2 ou 3."
+  },
+  {
+    "category": "Tâches",
+    "question": "En quoi consiste la Task 1 : outil de traduction ?",
+    "keywords": "task 1 tâche 1 traduction translation langue API Google Translate interface traduire réaliser faire développer langues texte",
+    "answer": "Créer une interface où l'utilisateur saisit un texte et choisit la langue source et cible, envoyer le texte à une API de traduction (Google Translate ou Microsoft Translator), puis afficher clairement le résultat. Optionnel : bouton copier ou synthèse vocale."
+  },
+  {
+    "category": "Tâches",
+    "question": "En quoi consiste la Task 2 : chatbot FAQ ?",
+    "keywords": "task 2 tâche 2 chatbot faq questions réponses NLP similarité réaliser faire développer",
+    "answer": "Collecter des FAQ (questions/réponses) sur un sujet, prétraiter le texte avec NLTK ou SpaCy, associer la question de l'utilisateur à la FAQ la plus proche (similarité cosinus ou intentions), puis afficher la meilleure réponse. Optionnel : une interface de chat simple."
+  },
+  {
+    "category": "Tâches",
+    "question": "En quoi consiste la Task 3 : génération de musique ?",
+    "keywords": "task 3 tâche 3 musique music MIDI LSTM GAN RNN music21 deep learning réaliser faire développer",
+    "answer": "Collecter des données MIDI (classique, jazz...), les transformer en séquences de notes (avec music21), construire un modèle RNN/LSTM ou GAN, l'entraîner, puis convertir les séquences générées en fichier MIDI ou audio."
+  },
+  {
+    "category": "Tâches",
+    "question": "En quoi consiste la Task 4 : détection et suivi d'objets ?",
+    "keywords": "task 4 tâche 4 objets object detection tracking YOLO OpenCV webcam vidéo SORT Deep SORT réaliser faire développer",
+    "answer": "Lire une vidéo (webcam ou fichier) avec OpenCV, détecter les objets avec un modèle pré-entraîné (YOLO ou Faster R-CNN), dessiner les boîtes, appliquer un suivi (SORT ou Deep SORT) et afficher les labels et les ID de suivi en temps réel."
+  },
+  {
+    "category": "Instructions",
+    "question": "Où dois-je publier mon code source ?",
+    "keywords": "github dépôt repository repo upload code nom nommage CodeAlpha_ProjectName",
+    "answer": "Sur GitHub, dans un dépôt nommé CodeAlpha_ProjectName (par exemple CodeAlpha_LanguageTranslationTool). Le code source doit être complet."
+  },
+  {
+    "category": "Instructions",
+    "question": "Que faut-il publier sur LinkedIn ?",
+    "keywords": "linkedin vidéo explication statut post tag @CodeAlpha publier",
+    "answer": "Deux publications : (1) votre statut de stagiaire en identifiant @CodeAlpha, (2) une vidéo d'explication de votre projet avec le lien du dépôt GitHub."
+  },
+  {
+    "category": "Instructions",
+    "question": "Comment soumettre ma tâche terminée ?",
+    "keywords": "soumission formulaire submission form envoyer rendre whatsapp groupe envoyer travail livrer déposer remettre terminé projet",
+    "answer": "Uniquement via le formulaire de soumission, partagé dans votre groupe WhatsApp. Suivez bien les instructions indiquées dans le formulaire pour que votre soumission soit acceptée."
+  },
+  {
+    "category": "Instructions",
+    "question": "Quelles sont les étapes à suivre pour le stage ?",
+    "keywords": "instructions procédure marche à suivre démarche résumé étapes",
+    "answer": "1) Partager votre statut de stage sur LinkedIn (@CodeAlpha). 2) Réaliser les projets dans les délais. 3) Publier le code sur GitHub (CodeAlpha_ProjectName). 4) Poster une vidéo explicative sur LinkedIn avec le lien GitHub. 5) Soumettre via le formulaire. 6) Terminer 2 ou 3 tâches sur 4."
+  },
+  {
+    "category": "Instructions",
+    "question": "Quel est le délai pour terminer les tâches ?",
+    "keywords": "deadline date limite durée temps combien de temps",
+    "answer": "Le document demande de terminer les projets « dans le délai indiqué », mais ne donne pas de date précise. Vérifiez le délai exact dans votre groupe WhatsApp ou auprès de CodeAlpha."
+  },
+  {
+    "category": "Certificat",
+    "question": "Le certificat est-il vérifiable ?",
+    "keywords": "QR code authentique ID unique validité vérification",
+    "answer": "Oui : le certificat de fin de stage est vérifié par QR code et un certificat avec ID unique est également fourni."
+  },
+  {
+    "category": "Avantages",
+    "question": "Puis-je obtenir une lettre de recommandation ?",
+    "keywords": "recommandation lettre LOR performance",
+    "answer": "Oui, une lettre de recommandation est proposée en fonction de votre performance pendant le stage."
+  },
+  {
+    "category": "Avantages",
+    "question": "Le stage aide-t-il à trouver un emploi ?",
+    "keywords": "job travail placement carrière CV opportunités embauche",
+    "answer": "CodeAlpha propose des opportunités d'emploi / un soutien au placement, ainsi qu'une aide pour construire votre CV."
+  },
+  {
+    "category": "Stage",
+    "question": "Le stage est-il rémunéré ?",
+    "keywords": "paiement salaire argent payé gratuit gratification",
+    "answer": "Le document ne mentionne aucune rémunération. Pour une réponse officielle, contactez CodeAlpha."
+  },
+  {
+    "category": "Contact",
+    "question": "Comment contacter CodeAlpha ?",
+    "keywords": "contact email mail téléphone whatsapp site web numéro adresse joindre",
+    "answer": "Site : www.codealpha.tech — WhatsApp : +91 9336576683 — Email : services@codealpha.tech ou services.codealpha@gmail.com."
+  },
+  {
+    "category": "Tâches",
+    "question": "Quels outils utiliser pour le traitement du texte en NLP ?",
+    "keywords": "NLTK SpaCy tokenisation nettoyage cosine similarity bibliothèque prétraitement",
+    "answer": "Pour le chatbot FAQ, le document recommande NLTK ou SpaCy (tokenisation, nettoyage) puis la similarité cosinus ou la détection d'intentions pour trouver la FAQ la plus proche."
+  }
+]
